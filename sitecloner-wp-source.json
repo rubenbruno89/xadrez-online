@@ -1,0 +1,22 @@
+{
+  "schema": "sitecloner.wp-source.v1",
+  "entry": "WP-SOURCE.html",
+  "originalEntry": "index.html",
+  "sourceUrl": "https://a1-1pagm8nfiumnjkb7vaek0skl2.infusion-ai.cloud/",
+  "sourceKind": "rendered-dom-frozen",
+  "fallbackOnly": true,
+  "assetsBase": "/",
+  "stats": {
+    "structuralNodes": 6,
+    "stylesheetLinks": 3,
+    "inlineStyles": 4,
+    "scriptsRemoved": 5,
+    "tabs": 0,
+    "buttons": 1,
+    "forms": 0,
+    "canvases": 0
+  },
+  "warnings": [
+    "Ações JS de botões podem exigir widgets nativos no WordPress."
+  ]
+}

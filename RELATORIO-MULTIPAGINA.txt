@@ -1,0 +1,33 @@
+SITECLONER PRO · 1.4.9.5
+=====================
+
+Origem: https://a1-1pagm8nfiumnjkb7vaek0skl2.infusion-ai.cloud/
+Páginas encontradas: 1
+Páginas capturadas: 1
+Assets únicos: 4
+Tecnologias detectadas: Tailwind CSS
+Modo: site inteiro
+Profundidade: 3
+Captura mobile: sim
+Filtro de idioma: pt (/)
+Links internos auditados: 0
+Links apontando para páginas locais: 0
+Links com fallback para o site original: 0
+
+PÁGINAS
+-------
+- https://a1-1pagm8nfiumnjkb7vaek0skl2.infusion-ai.cloud/ -> index.html
+
+AVISOS
+------
+- https://a1-1pagm8nfiumnjkb7vaek0skl2.infusion-ai.cloud/_deploys/tenant/409f6628-3e56-478e-81be-d9e21bf89558/app/1cc1eeeb-6a39-4015-b052-332489d58736/deploy/8aa89002-46aa-4993-a80d-66da3d81fbfb/assets/index-XLMv0biV.css :: {"code":-32000,"message":"No resource with given identifier found"}
+- https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&display=swap :: {"code":-32000,"message":"No resource with given identifier found"}
+- https://gc.kis.v2.scr.kaspersky-labs.com/E3E8934C-235A-4B0E-825A-35A08381A191/abn/main.css?attr=aHR0cHM6Ly9hMS0xcGFnbThuZml1bW5qa2I3dmFlazBza2wyLmluZnVzaW9uLWFpLmNsb3VkLw :: {"code":-32000,"message":"No resource with given identifier found"}
+
+COMO ABRIR
+----------
+Use ABRIR-SITE.cmd no Windows. Ele inicia um servidor local (localhost), necessário para que módulos JavaScript, WASM, workers, animações e outros recursos modernos funcionem com o mesmo contexto HTTP esperado pelo navegador.
+
+OBSERVAÇÃO
+----------
+Este pacote replica o front-end público observado pelo navegador. Backend, banco, autenticação privada, checkout real e APIs privadas continuam pertencendo ao sistema original.

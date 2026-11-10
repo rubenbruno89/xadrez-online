@@ -1,0 +1,68 @@
+{
+  "source": "https://a1-1pagm8nfiumnjkb7vaek0skl2.infusion-ai.cloud/",
+  "generatedAt": "2026-11-10T03:05:20.344Z",
+  "version": "1.4.9.5",
+  "auditReport": "AUDITORIA-IA.html",
+  "designSystem": "auditoria/site-design-system.json",
+  "entryFile": "index.html",
+  "stack": [
+    "Tailwind CSS"
+  ],
+  "localeScope": {
+    "enabled": true,
+    "language": "pt",
+    "prefix": "/",
+    "alternatePrefixes": []
+  },
+  "discoveredPages": 1,
+  "navigationAudit": {
+    "internalLinks": 0,
+    "capturedTargets": 0,
+    "fallbackOriginal": 0,
+    "missing": [],
+    "missingNav": []
+  },
+  "pages": [
+    {
+      "url": "https://a1-1pagm8nfiumnjkb7vaek0skl2.infusion-ai.cloud/",
+      "file": "index.html",
+      "title": "Xadrez Online",
+      "lang": "pt-BR",
+      "stack": [
+        "Tailwind CSS"
+      ],
+      "captureSource": "rendered-dom",
+      "embeddedPreview": null,
+      "renderDiagnostics": {
+        "networkScore": {
+          "structural": 0,
+          "visibleText": 13,
+          "score": 1.0833333333333333
+        },
+        "liveScore": {
+          "structural": 6,
+          "visibleText": 405,
+          "score": 81.75
+        },
+        "selected": "rendered-dom",
+        "readiness": {
+          "height": 639,
+          "isFramework": true,
+          "looksLoading": false,
+          "ready": true,
+          "structural": 10,
+          "textLength": 391,
+          "waitedMs": 468,
+          "timedOut": false
+        }
+      },
+      "recoveryMode": null,
+      "staticPreview": null,
+      "runtimeHtmlPreserved": false,
+      "runtimeAlternative": null,
+      "runtimeFailures": [],
+      "finalIndexBytes": 247084,
+      "rootIndexBytes": 0
+    }
+  ]
+}
